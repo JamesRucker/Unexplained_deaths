@@ -27,30 +27,14 @@ All needed files and programs are included in the technologies in order to run t
 
 
 ## Sources
-U.S. Centers for Disease Control and Prevention, National Center for Health Statistics.
-Public use data file documentation, mortality multiple cause-of-death. Accessed January
-4, 2021. https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm. These are full
-cause-of-death files including all underlying and contributing diagnoses for all
-deaths. They are available only through 2019.
+U.S. Centers for Disease Control and Prevention, National Center for Health Statistics. Public use data file documentation, mortality multiple cause-of-death. Accessed January 4, 2021. https://www.cdc.gov/nchs/nvss/mortality_public_use_data.htm. These are full cause-of-death files including all underlying and contributing diagnoses for all deaths. They are available only through 2019.
 
-U.S. Centers for Disease Control and Prevention, National Center for Health Statistics.
-Weekly counts of deaths by state and select causes, 2020-2021.
-https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-
-Causes/muzy-jte6. This is a partial cause-of-death file for 2020-2021. Fields
-indicate preliminary underlying cause of death for top natural causes and
-respiratory illness, including COVID-19.
+U.S. Centers for Disease Control and Prevention, National Center for Health Statistics. Weekly counts of deaths by state and select causes, 2020-2021.
+https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/muzy-jte6. This is a partial cause-of-death file for 2020-2021. Fields
+indicate preliminary underlying cause of death for top natural causes and respiratory illness, including COVID-19.
 
-U.S. Centers for Disease Control and Prevention, National Center for Health Statistics.
-Weekly counts of deaths by state and select causes, 2014-2019.
-https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-
-kanr. This is a partial cause-of-death file for 2014-2019. Fields indicate preliminary
-underlying cause of death for top natural causes and respiratory illness,
-including COVID-19.
+U.S. Centers for Disease Control and Prevention, National Center for Health Statistics. Weekly counts of deaths by state and select causes, 2014-2019. https://data.cdc.gov/NCHS/Weekly-Counts-of-Deaths-by-State-and-Select-Causes/3yf8-kanr. This is a partial cause-of-death file for 2014-2019. Fields indicate preliminary underlying cause of death for top natural causes and respiratory illness, including COVID-19.
 
-U.S. Census Bureau. State population totals and components of change: 2010-2019.
-U.S. Census Bureau. Accessed January 4, 2021.
-https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html.
-This is the source of the state population data used to population-adjust mortality
-counts. Table to access is Table 1. Annual Estimates of the Resident Population
-for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1,
-2019.
+U.S. Census Bureau. State population totals and components of change: 2010-2019. U.S. Census Bureau. Accessed January 4, 2021. https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html. This is the source of the state population data used to population-adjust mortality counts. Table to access is Table 1. Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2019.
+
+U.S. Centers for Disease Control and Prevention. CDC COVID data tracker: trends in number of COVID-19 cases and deaths in the US reported to CDC, by state/territory, United States. https://covid.cdc.gov/covid-data-tracker/#trends_dailytrendscases. This website is the source of the report's statements regarding (1) the time periods roughly corresponding to U.S. trends in COVID-19  mortality, (2) the number of cases nationwide as of mid-March 2020, and (3) the case surge late in 2020.
